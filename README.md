@@ -14,7 +14,7 @@
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/nina-kollman/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-   <a href=""mailto:ninakollmans@gmail.com""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
+   <a href="mailto:ninakollmans@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
 </p>
 
 ![](bottom.png)
